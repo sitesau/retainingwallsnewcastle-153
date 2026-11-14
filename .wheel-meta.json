@@ -1,0 +1,22 @@
+{
+  "wheel_id": 900,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-153",
+  "project": "retaining-wall-builders-newcastle-budget-tips-48a345c97cdcbe06b",
+  "parent_t1_ref": "retainingwallsnewcastle-009",
+  "node_role": "buffer",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall builders newcastle budget tips",
+  "intended_url": "http://retaining-wall-builders-newcastle-budget-tips-48a345c97cdcbe06b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c250b5ecde9cfde8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-builders-newcastle-009/",
+      "anchor": "this retaining wall builders newcastle guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
